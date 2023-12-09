@@ -6,7 +6,6 @@ This repository contains a collection of useful Python functions that do not rel
 
 - [Introduction](#introduction)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
