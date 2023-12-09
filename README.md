@@ -1,4 +1,4 @@
-# ReInventingTheWheel
+# ReInventTheWheel
 
 This repository contains a collection of useful Python functions that do not rely on any external libraries.
 
