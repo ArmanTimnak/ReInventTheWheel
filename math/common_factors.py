@@ -1,4 +1,4 @@
-def common_factors(*numbers):
+def common_factors(numbers):
     """
     Returns a set of common factors of the given numbers.
     

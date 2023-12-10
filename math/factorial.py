@@ -1,9 +1,9 @@
-def factorial(n):
+def factorial(num):
     """
     Calculate the factorial of a non-negative integer.
 
     Parameters:
-    n (int): The number for which factorial is to be calculated.
+    num (int): The number for which factorial is to be calculated.
 
     Returns:
     int: The factorial of the given number.
@@ -14,7 +14,7 @@ def factorial(n):
         >>> factorial(0)
         1
     """
-    if n == 0:
+    if num == 0:
         return 1
     else:
-        return n * factorial(n-1)
+        return num * factorial(n-1)
