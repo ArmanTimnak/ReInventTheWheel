@@ -21,8 +21,8 @@ Pull requests are the best way to propose changes to the codebase. We actively w
 5. Make sure your code lints.
 6. Issue that pull request!
 
-## Report bugs using Github's [issues](https://github.com/briandk/transcriptase-atom/issues)
-We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/briandk/transcriptase-atom/issues); it's that easy!
+## Report bugs using Github's [issues](https://github.com/ArmanTimnak/ReInventTheWheel/issues)
+We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/ArmanTimnak/ReInventTheWheel/issues); it's that easy!
 
 ## Writing Bug Reports
 
