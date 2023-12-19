@@ -1,46 +1,62 @@
-# Contributing to Our Project
+# Contributing to ReInventTheWheel
 
-We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
+First off, thank you for considering contributing to ReInventTheWheel. It's people like you that make ReInventTheWheel such a great repository.
 
-- Reporting a bug
-- Discussing the current state of the code
-- Submitting a fix
-- Proposing new features
-- Becoming a maintainer
+## How Can I Contribute?
 
-## We Develop with Github
-We use github to host code, to track issues and feature requests, as well as accept pull requests.
+### Reporting Bugs
 
-## We Use [Github Flow](https://guides.github.com/introduction/flow/index.html), So All Code Changes Happen Through Pull Requests
-Pull requests are the best way to propose changes to the codebase. We actively welcome your pull requests:
+If you encounter any bugs or issues with ReInventTheWheel, please report them by following these steps:
 
-1. Fork the repo and create your branch from `master`.
-2. If you've added code that should be tested, add tests.
-3. If you've changed APIs, update the documentation.
-4. Ensure the test suite passes.
-5. Make sure your code lints.
-6. Issue that pull request!
+1. Go to the [Issues](https://github.com/username/ReInventTheWheel/issues) tab on the repository.
+2. Click on the "New Issue" button.
+3. Provide a clear and descriptive title for the issue.
+4. Describe the steps to reproduce the issue, including any relevant code snippets or error messages.
+5. Add any additional context or screenshots that can help in understanding the issue.
+6. Click on the "Submit new issue" button to create the bug report.
 
-## Report bugs using Github's [issues](https://github.com/ArmanTimnak/ReInventTheWheel/issues)
-We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/ArmanTimnak/ReInventTheWheel/issues); it's that easy!
+### Suggesting Enhancements
 
-## Writing Bug Reports
+If you have any ideas or suggestions for enhancing ReInventTheWheel, please follow these steps:
 
-When reporting a bug, please provide as much detail as possible. This helps us understand and reproduce the issue, making it easier for us to fix it. Here's a guide on how to write an effective bug report:
+1. Go to the [Issues](https://github.com/username/ReInventTheWheel/issues) tab on the repository.
+2. Click on the "New Issue" button.
+3. Provide a clear and descriptive title for the enhancement suggestion.
+4. Describe the enhancement in detail, including any relevant use cases or examples.
+5. Explain why you think this enhancement would be beneficial for ReInventTheWheel.
+6. Click on the "Submit new issue" button to create the enhancement suggestion.
 
-### Background
-Start by providing some background information about the bug. Explain what you were doing when the bug occurred and any relevant context. Include the version of the software you are using and the operating system/environment.
+## Your First Code Contribution
 
-### Steps to Reproduce
-Provide a step-by-step guide on how to reproduce the bug. Include any specific inputs, configurations, or actions required to trigger the issue. If possible, provide a minimal code example that demonstrates the problem.
+Unsure where to begin contributing to ReInventTheWheel? You can start by looking through these `beginner` and `help-wanted` issues:
 
+- Beginner issues - issues which should only require a few lines of code, and a test or two.
+- Help wanted issues - issues which should be a bit more involved than `beginner` issues.
 
-## Use a Consistent Coding Style
-* Adhere to PEP8 as much as possible.
+### Pull Requests
 
-* Line lengths should be under 120 characters, use list comprehensions over map/filter, don't leave trailing whitespace.
+The process described here has several goals:
 
-* More complex pieces of code should be commented for future reference.
+- Maintain ReInventTheWheel's quality
+- Fix problems that are important to users
+- Engage the community in working towards improving and expanding ReInventTheWheel's functionality and usability. 
+- Enable a sustainable system for ReInventTheWheel's maintainers to review contributions
 
-## Any contributions you make will be under the MIT Software License
-In short, when you submit code changes, your submissions are understood to be under the same [MIT License](http://choosealicense.com/licenses/mit/) that covers the project. Feel free to contact the maintainers if that's a concern.
+## Style Guide
+
+Please follow the [PEP8 style guide](https://www.python.org/dev/peps/pep-0008/) for Python code. This will ensure a uniform code base and make it easier for others to understand and contribute to the project.
+
+## Commit Messages
+
+Please follow these guidelines for writing commit messages:
+
+- Use the present tense ("Add feature" not "Added feature")
+- Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
+- Limit the first line to 72 characters or less
+- Reference issues and pull requests liberally after the first line
+
+## License
+
+By contributing, you agree that your contributions will be licensed under its MIT License.
+
+Thank you for contributing to ReInventTheWheel!
